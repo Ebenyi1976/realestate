@@ -53,8 +53,8 @@ export default function BuyingPage() {
             </div>
             <div style={{ position: "relative", borderRadius: 20, overflow: "hidden" }}>
               <Image
-                src="https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80"
-                alt="A beautiful home ready for new owners"
+                src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80"
+                alt="Beautiful Southern California home ready for new owners"
                 width={800}
                 height={600}
                 crossOrigin="anonymous"
