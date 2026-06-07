@@ -17,7 +17,7 @@ export const blogPosts: BlogPost[] = [
     readTime: 8,
     description: "Everything you need to know before making your first offer — from credit checks to closing day.",
     date: "2026-05-12",
-    image: "photo-1560518883-ce09059eeffa",
+    image: "photo-1570129477492-45c003edd2be",
     body: `
 ## Where to start when you've never bought before
 
@@ -74,7 +74,7 @@ Working with an advisor who is both a licensed real estate agent and mortgage or
     readTime: 6,
     description: "A side-by-side breakdown of the two most common home loans, so you can choose with confidence.",
     date: "2026-04-28",
-    image: "photo-1554224155-6726b3ff858f",
+    image: "photo-1583608205776-bfd35f0d9f83",
     body: `
 ## The two big categories
 
@@ -126,7 +126,7 @@ The right answer depends on your specific numbers. Model both scenarios before d
     readTime: 7,
     description: "The strategy, the permits, the platform setup, and the financing behind a successful STR in Southern California.",
     date: "2026-04-10",
-    image: "photo-1502672260266-1c1ef2d93688",
+    image: "photo-1571939228382-b2f2b585ce15",
     body: `
 ## The STR opportunity in SoCal
 
@@ -188,7 +188,7 @@ The right choice depends on your proximity, time, and income goals.
     readTime: 5,
     description: "What your score actually measures, how to read your report, and the fastest ways to improve it.",
     date: "2026-03-22",
-    image: "photo-1563013544-824ae1b704d3",
+    image: "photo-1560185007-cde436f6a4d0",
     body: `
 ## Why your credit score matters so much
 
@@ -229,7 +229,7 @@ Most mortgage programs require a minimum score of 580–620. But to access the b
     readTime: 6,
     description: "Pricing strategy, presentation, marketing, and timing — what separates top-dollar sales from sitting on the market.",
     date: "2026-03-05",
-    image: "photo-1582407947304-fd86f28f5d82",
+    image: "photo-1512915922686-57c11dde9b6b",
     body: `
 ## The market has shifted — here's what that means for sellers
 
@@ -277,7 +277,7 @@ If you're selling to buy something else, the transaction sequencing matters enor
     readTime: 7,
     description: "Debt service coverage ratio loans let rental income do the qualifying. Here's how they work.",
     date: "2026-02-18",
-    image: "photo-1560520653-9e0e4c89eb11",
+    image: "photo-1592595896551-12b371d546d5",
     body: `
 ## The problem with traditional investment financing
 
@@ -333,7 +333,7 @@ As a licensed mortgage originator, I model DSCR scenarios for investors before t
     readTime: 5,
     description: "The break-even calculation, the timing questions, and the scenarios where refinancing makes sense.",
     date: "2026-01-30",
-    image: "photo-1563237023-b1e970526dcb",
+    image: "photo-1560520031-3a4dc4e9de0c",
     body: `
 ## The refinancing question
 
@@ -380,7 +380,7 @@ When your mortgage originator also understands your real estate situation — yo
     readTime: 6,
     description: "Systems, tenant selection, pricing, and the mindset shift that separates passive income from passive stress.",
     date: "2026-01-15",
-    image: "photo-1564013799919-ab600027ffc6",
+    image: "photo-1486406146926-c627a92ad1ab",
     body: `
 ## The landlord mindset
 
@@ -434,7 +434,7 @@ The real return on rental property isn't just the monthly cash flow — it's the
     readTime: 5,
     description: "CalHFA, GSFA, local programs, and how to stack assistance to buy with less cash out of pocket.",
     date: "2025-12-20",
-    image: "photo-1560518883-ce09059eeffa",
+    image: "photo-1582268611958-ebfd161ef9cf",
     body: `
 ## You may need less cash than you think
 

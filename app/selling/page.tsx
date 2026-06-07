@@ -27,8 +27,8 @@ export default function SellingPage() {
             </div>
             <div>
               <Image
-                src="https://images.unsplash.com/photo-1582407947304-fd86f28f5d82?auto=format&fit=crop&w=800&q=80"
-                alt="Home ready to sell in Southern California"
+                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+                alt="Stunning Southern California home ready to sell"
                 width={800} height={600} crossOrigin="anonymous"
                 style={{ width: "100%", height: "auto", borderRadius: 20, border: "1px solid var(--line)" }}
               />

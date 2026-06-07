@@ -64,8 +64,8 @@ export default function MortgagePage() {
             </div>
             <div>
               <Image
-                src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=800&q=80"
-                alt="Mortgage and financing strategy"
+                src="https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=800&q=80"
+                alt="Beautiful Southern California home and mortgage strategy"
                 width={800}
                 height={600}
                 crossOrigin="anonymous"

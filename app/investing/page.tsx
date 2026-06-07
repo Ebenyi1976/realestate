@@ -28,8 +28,8 @@ export default function InvestingPage() {
             </div>
             <div>
               <Image
-                src="https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?auto=format&fit=crop&w=800&q=80"
-                alt="Real estate investment property"
+                src="https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80"
+                alt="Modern Southern California investment property"
                 width={800} height={600} crossOrigin="anonymous"
                 style={{ width: "100%", height: "auto", borderRadius: 20, border: "1px solid var(--line)" }}
               />

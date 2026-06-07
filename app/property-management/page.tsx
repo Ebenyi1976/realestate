@@ -27,8 +27,8 @@ export default function PropertyManagementPage() {
             </div>
             <div>
               <Image
-                src="https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=800&q=80"
-                alt="Well-managed rental property"
+                src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=80"
+                alt="Well-maintained Southern California rental property"
                 width={800} height={600} crossOrigin="anonymous"
                 style={{ width: "100%", height: "auto", borderRadius: 20, border: "1px solid var(--line)" }}
               />
