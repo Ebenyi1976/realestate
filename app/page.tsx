@@ -115,8 +115,8 @@ export default function HomePage() {
             <div className="hero-visual">
               <Image
                 className="media"
-                src="https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=900&q=80"
-                alt="On the journey to your new home"
+                src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=900&q=80"
+                alt="Beautiful Southern California home with palm trees"
                 width={900}
                 height={1125}
                 crossOrigin="anonymous"
